@@ -33,7 +33,7 @@ This blog basically describes how one can use 10 basic SQL operations using the 
  
 ### 3. Order By clause
 - This clause in SQL is used for sorting the values in ascending or descending order
-   **Query to sort names in descending order :  **<br>
+   **Query to sort names in ascending order :  **<br>
    ```select * from student_details order by name;```
 
    **Query to sort names in descending order :  **<br>
@@ -105,7 +105,7 @@ This blog basically describes how one can use 10 basic SQL operations using the 
 ![Screenshot from 2021-08-22 11-55-30.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1629613583360/3kv-pbvpC.png)
 
 ### 10. Delete
-- **Deleating** a  row in student_details table : <br>
+- **Deleting** a  row in student_details table : <br>
    ```DELETE FROM student_details WHERE name = 'Seth Andrews' and class = 7;```
 
 -  In pandas we can do the same with the help of **drop()** function :

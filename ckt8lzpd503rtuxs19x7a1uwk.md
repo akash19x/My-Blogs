@@ -4,15 +4,15 @@ Python have a range of libraries and functions which can help us perform various
 
 The various operations which we will be performing are :
 
-1. **Establishing database connection in Python**
+- **Establishing database connection in Python**
 
-2. **Reading the data from table**
+- **Reading the data from table**
 
-3. **Read data as query**
+- **Read data as query**
 
-4. **Inserting a new row with python and writing back to database**
+- **Inserting a new row with python and writing back to database**
 
-5. **Drop the table**
+- **Drop the table**
 
 ### 1- Establishing database connection
 I'm going to use sqlalchemy library which is the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.

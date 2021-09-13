@@ -118,3 +118,4 @@ The datasets and python file I have used can be found here :  [Python Notebook](
 I'll be posting much more content of python and data science in my coming blogs.
 
 Thanks for your time! :)
+Checkout my youtube video on the same topic : https://www.youtube.com/watch?v=sUI00FYS0YA

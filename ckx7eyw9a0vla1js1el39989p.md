@@ -2,6 +2,9 @@
 
 This blog will focus mainly on some simple ways in which we can optimise our SQL query. We shall see some good examples where just choosing the other way to write the same query can make a huge impact on performance.
 
+> 
+Query optimization is the overall process of choosing the most efficient means of executing a SQL statement.
+
 ### Why is it needed?
 
 - First, it provides the user with faster results, which makes the application seem faster to the user.
